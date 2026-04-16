@@ -36,10 +36,6 @@ It provides:
 ### 4. Write an example backend block for an S3 remote backend.
 
 
-The file is the updated .tf
-
-For terraform commands, what commands do u run to provision infra with terraform
-
 ## Deliverables
 - Screenshots of each Terraform command
 > **terraform init**
